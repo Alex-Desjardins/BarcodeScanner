@@ -7,7 +7,7 @@ Barcode Scanner is a simple iOS app that allows users to scan EAN-compatible bar
 - iOS version 16+
 
 ### Getting started:
-- clone this repo
-- open xcode
+- clone this repo 
+- open xcode and navigate to project folder
 - attached iOS device, run simulator, allow camera access
 - scan EAN-8 or EAN-13 barcode
